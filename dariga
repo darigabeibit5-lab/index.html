@@ -1,15 +1,80 @@
-<div class="experience"><div class="date">Present</div><div><h3>Administrator</h3><div class="company">Women-Only Premium Wellness & Pilates Studio · Astana</div><ul><li>Manage daily front-desk operations and coordinate appointments in an exclusive, high-end environment.</li><li>Deliver personalized, premium customer service tailored to an all-women clientele.</li><li>Maintain a serene, immaculate, and welcoming atmosphere aligned with wellness standards.</li></ul></div></div>
-<div class="experience"><div class="date">Summer 2025</div><div><h3>Cashier / Scooper & Housekeeper</h3><div class="company">Holiday Hill Inn · Dennis Port, Massachusetts, USA</div><ul><li>Provided friendly, fast-paced guest service and managed transactions.</li><li>Upheld strict cleanliness, hygiene, and room preparation standards.</li></ul></div></div>
-<div class="experience"><div class="date">Jun – Sep 2024</div><div><h3>Administrator</h3><div class="company">Balance · Women’s Fitness Studio</div><ul><li>Handled daily studio administration, scheduling, and member communication.</li><li>Ensured a smooth, organized, and friendly environment for guests.</li></ul></div></div>
-<div class="experience"><div class="date">2023 – 2024</div><div><h3>Sales Assistant</h3><div class="company">Adidas</div><ul><li>Guided customers through product choices and delivered retail assistance.</li><li>Collaborated effectively within a fast-paced team environment.</li></ul></div></div>
+<section>
+    <h2>About Me</h2>
+    <p>Motivated and adaptable professional with experience in premium wellness administration, women's fitness studios, and international hospitality. Fourth-year geography student at ENU with a strong commitment to high-end service, communication, and organization.</p>
 </section>
-<section class="section" id="education"><div class="section-head"><div class="section-label">03 / Education</div><div><h2>Learning the world,<br>one place at a time.</h2><p class="section-intro">My studies in geography give me a comprehensive perspective on environments, spatial systems, and human connections across the globe.</p></div></div>
-<div class="education-grid"><div class="education-card"><div class="big">BA</div><h3>Bachelor’s Degree in Geography</h3><p>L.N. Gumilyov Eurasian National University (ENU)<br>4th-year student</p></div><div class="education-card"><div class="big">EN / RU / KZ</div><h3>Languages</h3><p>Kazakh — Native<br>Russian — Advanced (C1)<br>English — Intermediate (B1)</p></div></div>
+
+<section>
+    <h2>Experience</h2>
+    
+    <div class="job">
+        <div class="job-title">Administrator</div>
+        <div class="job-company">Women-Only Premium Wellness & Pilates Studio</div>
+        <div class="job-date">Present · Astana</div>
+        <ul>
+            <li>Managing daily front-desk operations and coordinating appointments in an exclusive, high-end environment.</li>
+            <li>Providing personalized, premium customer service tailored to an all-women clientele.</li>
+            <li>Maintaining a serene, immaculate, and welcoming atmosphere.</li>
+        </ul>
+    </div>
+
+    <div class="job">
+        <div class="job-title">Cashier / Scooper & Housekeeper</div>
+        <div class="job-company">Holiday Hill Inn (USA Work & Travel)</div>
+        <div class="job-date">Summer 2025 · Dennis Port, MA, USA</div>
+        <ul>
+            <li>Provided friendly guest service in a fast-paced environment.</li>
+            <li>Upheld strict cleanliness, safety, and room preparation standards.</li>
+        </ul>
+    </div>
+
+    <div class="job">
+        <div class="job-title">Administrator</div>
+        <div class="job-company">Balance · Women’s Fitness Studio</div>
+        <div class="job-date">Jun – Sep 2024 · Astana</div>
+        <ul>
+            <li>Handled studio administration, scheduling, and client communication.</li>
+            <li>Ensured a smooth and organized workflow.</li>
+        </ul>
+    </div>
+
+    <div class="job">
+        <div class="job-title">Sales Assistant</div>
+        <div class="job-company">Adidas</div>
+        <div class="job-date">2023 – 2024 · Astana</div>
+        <ul>
+            <li>Assisted customers with product selection and maintained retail standards.</li>
+        </ul>
+    </div>
 </section>
-<section class="section"><div class="section-head"><div class="section-label">04 / Strengths</div><div><h2>What I bring<br>to a team.</h2></div></div><div class="tag-list"><span class="tag">Premium client service</span><span class="tag">Wellness administration</span><span class="tag">Teamwork & communication</span><span class="tag">Multitasking</span><span class="tag">Time management</span><span class="tag">Responsibility</span><span class="tag">Adaptability</span><span class="tag">Attention to detail</span></div></section>
-<section class="section" id="contact"><div class="contact-panel"><div><h2>Let’s connect.</h2><p>For opportunities, collaboration, or a conversation.</p></div><a class="btn" href="mailto:darigabeibit5@gmail.com">Email Dariga ↗</a></div></section>
-</main>
-<footer><span>© <span id="year"></span> Dariga Beibit</span><span>Personal portfolio · Built with care</span></footer>
-</div><script>document.getElementById('year').textContent=new Date().getFullYear();</script>
-</body>
-</html>
+
+<section>
+    <h2>Education & Languages</h2>
+    <p><strong>Bachelor’s Degree in Geography</strong> — L.N. Gumilyov Eurasian National University (ENU), 4th-year student.</p>
+    <p style="margin-top: 10px;"><strong>Languages:</strong> Kazakh (Native), Russian (Advanced C1), English (Intermediate B1).</p>
+</section>
+
+<section>
+    <h2>Skills & Strengths</h2>
+    <div class="skills-list">
+        <span class="skill-tag">Premium Client Service</span>
+        <span class="skill-tag">Wellness Administration</span>
+        <span class="skill-tag">Teamwork & Communication</span>
+        <span class="skill-tag">Multitasking</span>
+        <span class="skill-tag">Time Management</span>
+        <span class="skill-tag">Adaptability</span>
+        <span class="skill-tag">Attention to Detail</span>
+    </div>
+</section>
+
+<section>
+    <h2>Contact</h2>
+    <div class="contacts">
+        <p><strong>Phone:</strong> <a href="tel:+77052666048">+7 705 266 60 48</a></p>
+        <p><strong>Email:</strong> <a href="mailto:darigabeibit5@gmail.com">darigabeibit5@gmail.com</a></p>
+        <p><strong>Location:</strong> Astana, Kazakhstan</p>
+    </div>
+</section>
+
+<footer>
+    © <span id="year"></span> Dariga Beibit. All rights reserved.
+</footer>
